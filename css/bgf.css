@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+header{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: orangered;
+    text-align: center;
+    color: white;
+}
+
+main{
+    padding: 20px 16px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+footer{
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    padding: 8px;
+    background-color: orangered;
+    color: whitesmoke;
+    margin-top: 10px;
+}
+
+header img{
+    border-radius: 255px;
+    border: 10px solid white;
+    width: 500px;
+    max-width: 100%;
+}
+
+header h2, header h1{
+    margin: 10px;
+}
+
+.smol{
+    text-align: left;
+    margin: 0px;
+    padding: 8px;
+}
+
+.smol p{
+    margin: 10px;
+    padding: 10px;
+}
+
+main img{
+    max-width: 49%;
+}
+
+main h2{
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+
+main p, main ul{
+    margin: 0px;
+}
